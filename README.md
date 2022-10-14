@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# My name is Eli Gooch. I'm currently an undergrad at Centre College with an expected graduation date of May 2023.
 <!--
 **JeliHacker/JeliHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

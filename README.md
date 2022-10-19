@@ -1,6 +1,6 @@
 # 👨🏼‍💻Eli Gooch👨🏼‍💻
 
-### My name is Eli Gooch. I'm currently an undergrad at Centre College with an expected graduation date of May 2023.
+### I'm currently an undergrad at Centre College with an expected graduation date of May 2023.
 
 
 <p align="center">

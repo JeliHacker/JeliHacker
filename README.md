@@ -1,6 +1,7 @@
 # 👨🏼‍💻Eli Gooch👨🏼‍💻
 
-### I'm currently an undergrad at Centre College with an expected graduation date of May 2023.
+### 🎓Centre College 2023 📍Danville, KY
+### 🏈Software Development Intern for the Cleveland Browns
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JeliHacker" />

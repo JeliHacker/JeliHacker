@@ -1,7 +1,7 @@
 # 👨🏼‍💻Eli Gooch👨🏼‍💻
 
 ### 🎓Centre College 2023 📍Danville, KY
-### 🏈Software Development Intern for the Cleveland Browns
+### 04/01/2024 - 🏈Junior Software Developer for the Cleveland Browns🏈
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JeliHacker" />
